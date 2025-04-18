@@ -22,12 +22,14 @@ Student Engineering Project Manager - Bucknell Small Business Development Center
    - Anything Git related
    - Personal Finance & Investing
    - Japan (I visited twice)
-   - Creating a Digital Twin
-   - Startups
    - Brazilian Jiu Jitsu / Muay Thai
    - Transitioning from blue collar to white collar
    - Cooking
    - Working on cars
+   - Indie music
+   - National Parks
+   - Creating a Digital Twin
+   - Startups
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/alecsanders/)
   - Email: aws022@bucknell.edu
