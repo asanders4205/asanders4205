@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Alec Sanders
 
-I'm Alec Sanders
-Graduating senior in Computer Science from Bucknell!
+Graduating senior in Computer Science - Bucknell University
 
 Bucknell Community College Scholar
 
@@ -23,8 +22,10 @@ Student Engineering Project Manager - Bucknell Small Business Development Center
    - Anything Git related
    - Personal Finance & Investing
    - Japan (I visited twice)
-   - Digital Twinning
+   - Creating a Digital Twin
+   - Startups
    - Brazilian Jiu Jitsu / Muay Thai
+   - Transitioning from blue collar to white collar
    - Cooking
    - Working on cars
 - 📫 How to reach me:
