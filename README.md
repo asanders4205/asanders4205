@@ -12,6 +12,7 @@ Student Engineering Project Manager - Bucknell Small Business Development Center
   - DataDrive - Data pipeline for vehicle safety data
     - User Interface in (C++ / QT)
   - Sentiment Analysis on Truth Social versus Bluesky
+  - Git Helper - git assistant for CS Students
   - Several smaller independent projects
 - 🌱 I’m currently learning ...
    - Data Mining
