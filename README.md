@@ -19,10 +19,13 @@ Student Engineering Project Manager - Bucknell Small Business Development Center
    - Networks & Security
    - 2 religion classes (What is Religion, Religious Naturalism)
 - 💬 Ask me about
-  -  Anything Git related
-  -  Personal Finance
-  -  Cooking
-  -  Working on cars
+   - Anything Git related
+   - Personal Finance & Investing
+   - Japan (I visited twice)
+   - Digital Twinning
+   - Brazilian Jiu Jitsu / Muay Thai
+   - Cooking
+   - Working on cars
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/alecsanders/)
   - Email: aws022@bucknell.edu
