@@ -32,7 +32,9 @@ Student Engineering Project Manager - Bucknell Small Business Development Center
    - Startups
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/alecsanders/)
-  - Email: aws022@bucknell.edu
+  - Email:
+    - School: aws022@bucknell.edu
+    - Personal: asanders4205@gmail.com
 <!--
 **asanders4205/asanders4205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
