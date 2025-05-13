@@ -16,6 +16,9 @@ Student Engineering Project Manager - Bucknell Small Business Development Center
 - 🌱 I’m currently learning ...
    - Data Mining
    - Database Administration & Applied Data Analysis
+     - Google BigQuery
+     - Looker
+     - DataProc
    - Networks & Security
    - 2 religion classes (What is Religion, Religious Naturalism)
 - 💬 Ask me about
@@ -27,8 +30,7 @@ Student Engineering Project Manager - Bucknell Small Business Development Center
    - Cooking
    - Working on cars
    - Indie music
-   - National Parks
-   - Creating a Digital Twin
+   - National Parks & Hiking
    - Startups
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/alecsanders/)
