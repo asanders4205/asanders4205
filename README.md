@@ -1,28 +1,25 @@
 ## Hi there 👋 I'm Alec Sanders
 
 Bucknell University Computer Science alum!
-
 Bucknell Community College Scholar (HACC Alum!)
 
 Former positions:
-Student Engineering Project Manager - Bucknell Small Business Development Center
-Student Engineering - Bucknell Small Business Development Center
-(I love product development)
+Student Engineering Project Manager and Student Engineering Consultant - Bucknell Small Business Development Center
 - 🔭 I’m currently working on
 -   CRM in Palantir Foundry
     - Data ingestion, cleaning/transformation
     - Analytics dashboard
     - Integrated AIP Chatbot agent
 - Personal Website
-  -  React, Vercel
-- Studying Microsoft SQL Server
+  -  React, Tailwind CSS
+- Studying Tableau
 
 
 
 
 
 - Past Projects
-  - DataDrive - Data pipeline for vehicle safety data
+  - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
     - User Interface in (C++ / QT)
   - Sentiment Analysis on Truth Social versus Bluesky
   - Git Helper - git assistant for CS Students
