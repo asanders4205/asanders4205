@@ -1,21 +1,15 @@
 ## Hi there 👋 I'm Alec Sanders
 
-Bucknell University Computer Science alum!
-Bucknell Community College Scholar (HACC Alum!)
+Bucknell University Computer Science graduate
+Former Tradesman (apprentice electrician)
+Former Community College student (HACC)
 
-Former positions:
-Student Engineering Project Manager and Student Engineering Consultant - Bucknell Small Business Development Center
-- 🔭 I’m currently working on
--   CRM in Palantir Foundry
-    - Data ingestion, cleaning/transformation
-    - Analytics dashboard
-    - Integrated AIP Chatbot agent
-- Personal Website
-  -  React, Tailwind CSS
-- Studying Tableau
-
-
-
+🔭 I’m currently working on
+- Building my company, Sakura Labs
+    - Websites
+      - Wordpress
+      - React, Tailwind CSS
+    - Client acquisition and customer discovery
 
 
 - Past Projects
@@ -25,29 +19,28 @@ Student Engineering Project Manager and Student Engineering Consultant - Bucknel
   - Git Helper - git assistant for CS Students
   - Several smaller independent projects
 - 🌱 I’m currently learning ...
-   - Data Mining
-   - Database Administration & Applied Data Analysis
+   - Data Analysis and Business Intelligence
      - Google BigQuery
      - Looker
      - DataProc
-   - Networks & Security
-   - 2 religion classes (What is Religion, Religious Naturalism)
+     - Tableau
 - 💬 Ask me about
+   - Travel (I've been to Costa Rica, Japan twice, and am writing this from a cafe in Saigon, Vietnam)
    - Anything Git related
-   - Personal Finance & Investing
-   - Japan (I visited twice)
+   - Geopolitics
+   - Finance and investing
+   - Startups
+   - Transitioning from blue collar to white collar life
    - Brazilian Jiu Jitsu / Muay Thai
-   - Transitioning from blue collar to white collar
    - Cooking
    - Working on cars
    - Indie music
    - National Parks & Hiking
-   - Startups
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/alecsanders/)
   - Email:
-    - School: aws022@bucknell.edu
     - Personal: asanders4205@gmail.com
+    - Business (inquiries only): alec.sakuralabs@gmail.com
 <!--
 **asanders4205/asanders4205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
