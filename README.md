@@ -1,23 +1,22 @@
 ## Hi there 👋 I'm Alec Sanders
 
-Bucknell University Computer Science graduate
-Former Tradesman (apprentice electrician)
-Former Community College student (HACC)
+Bucknell University Computer Science Graduate
+Aspiring Data Scientist
+Founder & Owner - Sakura Labs
+
 
 🔭 I’m currently working on
 - Building my company, Sakura Labs
-    - Websites
-      - Wordpress
-      - React, Tailwind CSS
+    - Company website
     - Client acquisition and customer discovery
 
 
 - Past Projects
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
     - User Interface in (C++ / QT)
+    - DevOps & Version Control
+    - Project Management & Leadership
   - Sentiment Analysis on Truth Social versus Bluesky
-  - Git Helper - git assistant for CS Students
-  - Several smaller independent projects
 - 🌱 I’m currently learning ...
    - Data Analysis and Business Intelligence
      - Google BigQuery
@@ -30,7 +29,7 @@ Former Community College student (HACC)
    - Geopolitics
    - Finance and investing
    - Startups
-   - Transitioning from blue collar to white collar life
+   - Transitioning from blue collar to white collar life (I'm a former tradesman - 3 years as apprentice electrician)
    - Brazilian Jiu Jitsu / Muay Thai
    - Cooking
    - Working on cars
