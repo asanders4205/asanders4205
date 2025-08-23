@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Alec Sanders
 
 Bucknell University Computer Science Graduate, 
-Aspiring Data Scientist, 
+Aspiring Data Scientist,
 Founder & Owner - Sakura Labs
 
 
