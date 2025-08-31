@@ -2,13 +2,13 @@
 
 Bucknell University Computer Science Graduate, 
 Aspiring Data Scientist,
+BI Developer at Geisinger
 Founder & Owner - Sakura Labs
 
 
 🔭 I’m currently working on
-- Building my company, Sakura Labs
-    - Company website
-    - Client acquisition and customer discovery
+- Image Classification
+- Working through the Hugging Face LLM course (NLP)
 
 
 - Past Projects
