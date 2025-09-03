@@ -7,9 +7,9 @@ Founder & Owner - Sakura Labs
 
 
 🔭 I’m currently working on
-- Image Classification
-- Working through the Hugging Face LLM course (NLP)
-
+- Sentiment analysis on Social media platforms
+- Polishing projects from college for publication
+- Learning more about data science (Image dataset processing, NLP)
 
 - Past Projects
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
@@ -19,16 +19,23 @@ Founder & Owner - Sakura Labs
   - Sentiment Analysis on Truth Social versus Bluesky
 - 🌱 I’m currently learning ...
    - Data Analysis and Business Intelligence
-     - Google BigQuery
-     - SQL & Pandas review
+     - SQL
      - Tableau
+     - Working with data at scale
+  - Data Science
+    - Processing image datasets common image models
+    - SQL and Pandas review
+     
 - 💬 Ask me about
    - Travel (I've been to Costa Rica, Japan twice, and am writing this from a cafe in Saigon, Vietnam)
    - Anything Git related
    - Geopolitics
    - Finance and investing
    - Startups
-   - Transitioning from blue collar to white collar life (I'm a former tradesman - 3 years as apprentice electrician)
+   - Career transitions
+     - Transitioning from blue collar to white collar life (I'm a former tradesman - 3 years as apprentice electrician)
+     - Community College
+     - Changing major
    - Brazilian Jiu Jitsu / Muay Thai
    - Cooking
    - Working on cars
