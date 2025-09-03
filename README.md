@@ -2,7 +2,7 @@
 
 Bucknell University Computer Science Graduate, 
 Aspiring Data Scientist,
-BI Developer at Geisinger
+BI Developer at Geisinger,
 Founder & Owner - Sakura Labs
 
 
