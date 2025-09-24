@@ -1,30 +1,25 @@
 ## Hi there 👋 I'm Alec Sanders
 
-Bucknell University Computer Science Graduate, 
-Aspiring Data Scientist,
-BI Developer at Geisinger,
-Founder & Owner - Sakura Labs
-
-
 🔭 I’m currently working on
-- Sentiment analysis on Social media platforms
-- Polishing projects from college for publication
-- Learning more about data science (Image dataset processing, NLP)
+- Data Science - Image processing, NLP
+  - Image Quality classification
+  - Sentiment analysis on Social media platforms
+- Databricks modules
+  - DevOps for Data Engineering with PySpark
 
 - Past Projects
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
     - User Interface in (C++ / QT)
     - DevOps & Version Control
     - Project Management & Leadership
-  - Sentiment Analysis on Truth Social versus Bluesky
+  - Sentiment Analysis on Truth Social and Bluesky
+    
 - 🌱 I’m currently learning ...
-   - Data Analysis and Business Intelligence
+   - Business Intelligence
      - SQL
      - Tableau
+     - Business Process automation
      - Working with data at scale
-  - Data Science
-    - Processing image datasets common image models
-    - SQL and Pandas review
      
 - 💬 Ask me about
    - Travel (I've been to Costa Rica, Japan twice, and am writing this from a cafe in Saigon, Vietnam)
