@@ -9,10 +9,14 @@
 
 - Past Projects
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
+    - Programmed on a Raspberry Pi 4
     - User Interface in (C++ / QT)
-    - DevOps & Version Control
-    - Project Management & Leadership
+    - DevOps & Version Control for the team via Git
   - Sentiment Analysis on Truth Social and Bluesky
+- CueTeddy - Robotic Teddy Bear for dementia / alzheimer's patients
+  - Brought on to improve UX code and add features
+  - Randomized order of verbal prompts to user
+  - Implemented facial recognition with OpenCV to allow individualized user experience and settings
     
 - 🌱 I’m currently learning ...
    - Business Intelligence
