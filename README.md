@@ -8,13 +8,20 @@
   - DevOps for Data Engineering with PySpark
 
 - Past Projects
+  - Image Quality Classification
+  - Kalshi API bot - access the Kalshi API and pull various market data
+  - Police Firearms training system - Inital system design and specifications
+
+- For some reason I've worked an extraordinary amount with Raspberry Pi, and for better or for worse have spent 1 year and 7 months of my life learning and understanding the things. If you work with Raspberry Pi I'd love to chat
+  
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
     - Programmed on a Raspberry Pi 4
     - User Interface in (C++ / QT)
     - DevOps & Version Control for the team via Git
   - Sentiment Analysis on Truth Social and Bluesky
 - CueTeddy - Robotic Teddy Bear for dementia / alzheimer's patients
-  - Brought on to improve UX code and add features
+  - Programmed on Raspberry Pi
+  - Improved UX code and added UX features
   - Randomized order of verbal prompts to user
   - Implemented facial recognition with OpenCV to allow individualized user experience and settings
     
