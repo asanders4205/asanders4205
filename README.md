@@ -4,16 +4,14 @@
 - Data Science - Image processing, NLP
   - Image Quality classification
   - Sentiment analysis on Social media platforms
-- Databricks modules
-  - DevOps for Data Engineering with PySpark
+- Databricks courses
 
 - Past Projects
   - Image Quality Classification
   - Kalshi API bot - access the Kalshi API and pull various market data
   - Police Firearms training system - Inital system design and specifications
 
-- For some reason I've worked an extraordinary amount with Raspberry Pi, and for better or for worse have spent 1 year and 7 months of my life learning and understanding the things. If you work with Raspberry Pi I'd love to chat
-  
+
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
     - Programmed on a Raspberry Pi 4
     - User Interface in (C++ / QT)
