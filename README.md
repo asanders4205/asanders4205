@@ -7,11 +7,9 @@
 - Databricks courses
 
 - Past Projects
-  - Image Quality Classification
+  - Data Wrangling pipeline for Image Processing
   - Kalshi API bot - access the Kalshi API and pull various market data
   - Police Firearms training system - Inital system design and specifications
-
-
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
     - Programmed on a Raspberry Pi 4
     - User Interface in (C++ / QT)
@@ -27,8 +25,11 @@
    - Business Intelligence
      - SQL
      - Tableau
-     - Business Process automation
      - Working with data at scale
+   - Data Science / ML
+     - Databricks
+     - Image processing
+     - Sentiment analysis
      
 - 💬 Ask me about
    - Travel (I've been to Costa Rica, Japan twice, and am writing this from a cafe in Saigon, Vietnam)
