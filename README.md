@@ -3,7 +3,6 @@
 🔭 I’m currently working on
 - Data Science - Image processing, NLP
   - Image Quality classification
-  - Sentiment analysis on Social media platforms
 - Databricks courses
 
 - Past Projects
@@ -14,7 +13,6 @@
     - Programmed on a Raspberry Pi 4
     - User Interface in (C++ / QT)
     - DevOps & Version Control for the team via Git
-  - Sentiment Analysis on Truth Social and Bluesky
 - CueTeddy - Robotic Teddy Bear for dementia / alzheimer's patients
   - Programmed on Raspberry Pi
   - Improved UX code and added UX features
@@ -29,7 +27,7 @@
    - Data Science / ML
      - Databricks
      - Image processing
-     - Sentiment analysis
+
      
 - 💬 Ask me about
    - Travel (I've been to Costa Rica, Japan twice, and am writing this from a cafe in Saigon, Vietnam)
