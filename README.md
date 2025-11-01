@@ -1,11 +1,13 @@
 ## Hi there 👋 I'm Alec Sanders
 
 🔭 I’m currently working on
-- Data Science - Image processing, NLP
-  - Image Quality classification
+  - Social media sentiment analysis for proprietary platform
+    - Data Science - NLP, Data curation
 - Databricks courses
-
+  - Data Analysis with Databricks
+ 
 - Past Projects
+  - Image Quality classification (sidelined to prioritize another project)
   - Data Wrangling pipeline for Image Processing
   - Kalshi API bot - access the Kalshi API and pull various market data
   - Police Firearms training system - Inital system design and specifications
@@ -21,9 +23,6 @@
     
 - 🌱 I’m currently learning ...
    - Business Intelligence
-     - SQL
-     - Tableau
-     - Working with data at scale
    - Data Science / ML
      - Databricks
      - Image processing
