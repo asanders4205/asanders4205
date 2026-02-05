@@ -1,10 +1,14 @@
 ## Hi there 👋 I'm Alec Sanders
 
 🔭 I’m currently working on
-  - Social media sentiment analysis for proprietary platform
-    - Data Science - NLP, Data curation
+  - Automating reporting for radiology appointment availability in my day job
+    - So far cut reporting time by 70%, saving 12-18 hours/month of manual reporting time
+    - Automation scripts use only SQL
+    - Adaptable, scalable, allows business stakeholders to modify reporting logic from within Excel
 - Databricks courses
   - Data Analysis with Databricks
+- Migration utility
+  - Building a utility for migrating T-SQL codebase to Databricks
  
 - Past Projects
   - Image Quality classification (sidelined to prioritize another project)
@@ -47,7 +51,7 @@
   - [LinkedIn](https://www.linkedin.com/in/alecsanders/)
   - Email:
     - Personal: asanders4205@gmail.com
-    - Business (inquiries only): alec.sakuralabs@gmail.com
+    - Business (inquiries only): alecsandersllc@gmail.com
 <!--
 **asanders4205/asanders4205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
