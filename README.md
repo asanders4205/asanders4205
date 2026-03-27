@@ -1,20 +1,14 @@
 ## Hi there 👋 I'm Alec Sanders
 
 🔭 I’m currently working on
-  - Automating reporting for radiology appointment availability in my day job
-    - So far cut reporting time by 70%, saving 12-18 hours/month of manual reporting time
-    - Automation scripts use only SQL
-    - Adaptable, scalable, allows business stakeholders to modify reporting logic from within Excel
+- Working in Healthcare as a BI developer
 - Databricks courses
-  - Data Analysis with Databricks
 - Migration utility
   - Building a utility for migrating T-SQL codebase to Databricks
  
 - Past Projects
-  - Image Quality classification (sidelined to prioritize another project)
   - Data Wrangling pipeline for Image Processing
   - Kalshi API bot - access the Kalshi API and pull various market data
-  - Police Firearms training system - Inital system design and specifications
   - DataDrive - Data pipeline for vehicle safety data (Senior Design project, 2 semesters, 5 member scrum team)
     - Programmed on a Raspberry Pi 4
     - User Interface in (C++ / QT)
