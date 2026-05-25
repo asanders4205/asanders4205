@@ -44,8 +44,8 @@
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/alecsanders/)
   - Email:
-    - Personal: asanders4205@gmail.com
-    - Business (inquiries only): alecsandersllc@gmail.com
+    - Personal: asanders4205[at]gmail[dot]com
+    - Business (inquiries only): alecsandersllc[at]gmail[dot]com
 <!--
 **asanders4205/asanders4205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
