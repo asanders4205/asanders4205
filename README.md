@@ -1,11 +1,8 @@
 ## Hi there 👋 I'm Alec Sanders
+I am a Healthcare Business Intelligence Analyst interested in transitioning to Data Science.
 
-🔭 I’m currently working on
-- Working in Healthcare as a BI developer
-- Databricks courses
-- Migration utility
-  - Building a utility for migrating T-SQL codebase to Databricks
- 
+I'm currently working on Machine Learning courses and projects in Databricks, while supporting Radiology reporting at Geisinger.
+
 - Past Projects
   - Data Wrangling pipeline for Image Processing
   - Kalshi API bot - access the Kalshi API and pull various market data
