@@ -1,8 +1,13 @@
 ## Hi there 👋 I'm Alec Sanders
 I am a Healthcare Business Intelligence Analyst interested in transitioning to Data Science.
 
-I'm currently working on Machine Learning courses and projects in Databricks, while supporting Radiology reporting at Geisinger.
+I'm currently studying Machine Learning in Databricks while supporting Radiology reporting at Geisinger. I'm currently the sole analyst on my team following the departures of two senior analysts
 
+- Past Projects
+  - Patient No-Show prediction: Binary classifier on large healthcare dataset predicting patient no-show. End to End ML pipeline in Databricks, comparing Logistic Regression and Random Forest models. Pipeline modularized into Python packages, models implemented in Databricks notebooks. Model logging in MlFlow.
+
+
+<!--
 - Past Projects
   - Data Wrangling pipeline for Image Processing
   - Kalshi API bot - access the Kalshi API and pull various market data
@@ -15,7 +20,8 @@ I'm currently working on Machine Learning courses and projects in Databricks, wh
   - Improved UX code and added UX features
   - Randomized order of verbal prompts to user
   - Implemented facial recognition with OpenCV to allow individualized user experience and settings
-    
+
+
 - 🌱 I’m currently learning ...
    - Business Intelligence
    - Data Science / ML
@@ -43,7 +49,8 @@ I'm currently working on Machine Learning courses and projects in Databricks, wh
   - Email:
     - Personal: asanders4205[at]gmail[dot]com
     - Business (inquiries only): alecsandersllc[at]gmail[dot]com
-<!--
+
+
 **asanders4205/asanders4205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
