@@ -3,7 +3,7 @@ I am a Healthcare Business Intelligence Analyst interested in transitioning to D
 
 I'm currently studying Machine Learning in Databricks while supporting Radiology reporting at Geisinger. I'm currently the sole analyst on my team following the departures of two senior analysts
 
-- Past Projects
+Projects:
   - Patient No-Show prediction: Binary classifier on large healthcare dataset predicting patient no-show. End to End ML pipeline in Databricks, comparing Logistic Regression and Random Forest models. Pipeline modularized into Python packages, models implemented in Databricks notebooks. Model logging in MlFlow.
 
 
