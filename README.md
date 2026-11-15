@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Alec Sanders
-I am a Healthcare Business Intelligence Analyst interested in transitioning to Data Science.
+I am a Healthcare Business Intelligence Analyst building a career in Healthcare Data Science and AI
 
 I'm currently studying Machine Learning in Databricks while supporting Radiology reporting at Geisinger. I'm currently the sole analyst on my team following the departures of two senior analysts
 
