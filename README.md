@@ -17,7 +17,7 @@ I believe in the value of Education, formal or otherwise, as a means of self-imp
 
 
 **Hobbies**
-* Reading ([Goodreads]([url](https://www.goodreads.com/user/show/138114085-alec)))
+* Reading
 * Travel (I've been to Costa Rica, Japan twice, and lived in Vietnam for a month after graduating college)
 
 
