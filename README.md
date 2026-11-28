@@ -3,10 +3,10 @@
 
 I am a Business Intelligence Analyst at Geisinger building a career in Data Science and AI.
 
-**Education**
-Harrisburg Area Community College - A.S. Computer Science - Class of 2023
-Bucknell University - B.S. Computer Science - Class of 2025
-Georgia Tech (Incoming) - M.S. Computer Science
+**Education**  
+Harrisburg Area Community College - A.S. Computer Science - Class of 2023  
+Bucknell University - B.S. Computer Science - Class of 2025  
+Georgia Tech (Incoming) - M.S. Computer Science  
 
 <!--
 **Education**
