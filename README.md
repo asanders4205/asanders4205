@@ -21,20 +21,20 @@ I believe in the value of education, formal or otherwise, as a means of attainin
 * Travel (I've been to Costa Rica, Japan twice, and lived in Vietnam for a month after graduating college)
 -->
 
-**Software**
-Data
+**Software**  
+Data  
 * SQL
 * Python
 * Databricks
 * Google Cloud
 * Pandas, Numpy
 
-AI and Agents
+AI and Agents  
 * Claude Code
 * Databricks Genie
 * Simple Agentic Frameworks (Langchain)
 
-Software Engineering
+Software Engineering  
 * Java
 * C/C++
 * Python
