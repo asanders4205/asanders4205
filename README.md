@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Alec Sanders
 
 
-**Career**
 I am a Business Intelligence Analyst at Geisinger building a career in Data Science and AI.
 
 <!--
@@ -19,7 +18,7 @@ I believe in the value of education, formal or otherwise, as a means of attainin
 **Hobbies**
 * Reading - I'm currently reading Neitzche's works
 * Travel (I've been to Costa Rica, Japan twice, and lived in Vietnam for a month after graduating college)
--->
+
 
 **Software**  
 Data  
@@ -43,7 +42,6 @@ Software Engineering
 
 
 
-<!--
 - Past Projects
   - Data Wrangling pipeline for Image Processing
   - Kalshi API bot - access the Kalshi API and pull various market data
