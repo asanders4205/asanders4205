@@ -2,8 +2,7 @@
 
 
 **Career**
-I am a Business Intelligence Analyst at Geisinger building a career in Data Science and AI. At Geisinger I review operational data and provide recommendations to leadership for improving patient care and operational efficiency.
-
+I am a Business Intelligence Analyst at Geisinger building a career in Data Science and AI.
 
 **Education**
 I returned to college after working in the skilled trades for several years following my high school graduation. I wanted to pursue work that was more intellectually stimulating, and was interested in the practical and philosophical implications of Artificial Intelligence. This motivated me to enroll in community college and study Computer Science, where I earned a scholarship to Bucknell University.
